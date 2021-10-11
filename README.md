@@ -3,4 +3,5 @@
 
 
 1. https://gist.github.com/tarampampam/a0db45fb0de5976300b1
-2. 
+2. https://crazymax.dev/WindowsSpyBlocker/usage/
+3. 
